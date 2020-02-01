@@ -1,0 +1,15 @@
+Observations from the plots.
+
+Tumor Response to Treatment Graph
+The tumors volume for the mice taking Capomulin shrunk in course of trial, 
+while the tumors volume for the mice taking the other drugs grew almost with the same rate.
+Thus,the drug Capomulin had a better result.
+
+Metastatic Spread During Treatment Graph
+This shows that all tumors had metastatic spread regardless of the drug with Capomulin having the slowest metastatic spread and Placebo having the fastest spread.
+
+Survival During Treatment Graph
+This shows that over 80% of the mice taking Capomulin survived during the course of trial while survival rate dropped with almost same rate till day 30 for the other drugs.
+After this, the survival rate for Infubinol dropped significantly.
+
+In summary,from the Tumor Change Over 45 Days Treatment graph,Capomulin had most favorable result. This drug could be a great anti cancer drug.
